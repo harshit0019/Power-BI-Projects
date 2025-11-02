@@ -16,13 +16,17 @@ This repository is a collection of Power BI dashboards and reports built across 
 
 Some of the projects in this repository include:
 
-1. **Amazon Sales Dashboard** – Visualizing regional sales trends, seller performance, product category breakdowns, and seasonality. *(Shows advanced visualizing & dashboarding skills.)*  
-   ![Amazon Sales Dashboard Placeholder](images/amazon_sales_dashboard.png)
+1. **Amazon Sales Dashboard** – Visualizing regional sales trends, seller performance, product category breakdowns, and seasonality. *(Shows advanced visualizing & dashboarding skills.)*
+   
+  <img width="1310" height="730" alt="image" src="https://github.com/user-attachments/assets/7ef789c7-30a7-41b2-9904-f9f786c91eca" />
 
-2. **Car Sales Dashboard** – Analyzing revenue, profit margins, expense categories, dealer performance, and time-series forecasting. *(Shows advanced visualizing & dashboarding skills.)*  
-   ![Car Sales Dashboard Placeholder](images/car_sales_dashboard.png)
 
-3. **Customer Churn Analysis** – Exploratory Data Analysis (EDA) and Power BI reporting to identify drivers of churn, segment high-risk customers, and visualize cohort retention. Includes churn-rate trendlines, survival curves, and feature-impact KPI cards.  
+3. **Car Sales Dashboard** – Analyzing revenue, profit margins, expense categories, dealer performance, and time-series forecasting. *(Shows advanced visualizing & dashboarding skills.)*
+   
+   <img width="1358" height="747" alt="image" src="https://github.com/user-attachments/assets/ed8c8dec-57b8-4f1a-b47e-9c68e8129fa5" />
+
+
+5. **Customer Churn Analysis** – Exploratory Data Analysis (EDA) and Power BI reporting to identify drivers of churn, segment high-risk customers, and visualize cohort retention. Includes churn-rate trendlines, survival curves, and feature-impact KPI cards.  
    *EDA performed using pandas, numpy, seaborn, matplotlib; insights translated to Power BI using calculated columns, measures (DAX), and drill-through pages.*  
 
  <img width="1332" height="746" alt="image" src="https://github.com/user-attachments/assets/8b15a7e4-d37a-4f90-9ffe-6288f81f3f5a" />
