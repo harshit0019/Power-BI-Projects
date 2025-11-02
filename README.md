@@ -1,94 +1,57 @@
-# 📊 Power BI Projects Portfolio
+## Power BI Projects Portfolio
 
-This repository showcases my **Power BI dashboards** and **end-to-end data analysis projects** across multiple business domains. Each project highlights my ability to perform **data cleaning & EDA (Python)**, build **advanced visual dashboards**, and create **actionable business insights**.
+A collection of my **Power BI dashboards** and **Python-based EDA projects** showing end-to-end data analysis + visualization skills.
 
 ---
 
-## 📁 Contents
-
-- `.pbix` files for each Power BI project  
-- Jupyter notebooks for EDA (where applicable)  
+### 📂 Contents
+- Power BI `.pbix` files  
+- Python EDA notebooks  
 - Dataset references  
 
 ---
 
-## 🔍 Projects Showcase
+### 🔍 Projects
 
-### ✅ Amazon Sales Dashboard  
-📌 *Visualizing regional sales trends and seller performance*  
-- Seller & region-wise performance
-- Profit vs returns breakdown  
-🖼️ *(Add dashboard image here)*  
+#### • Amazon Sales Dashboard  
+Regional sales insights, profit analysis, seller performance  
+*Add Image Here*
 
----
+#### • Car Sales Dashboard  
+Revenue & expense tracking, model-wise & dealer performance  
+*Add Image Here*
 
-### ✅ Car Sales Dashboard  
-📌 *Revenue, profit margins, and expense analysis*  
-- Car model, region, dealer performance  
-- Expense-to-sales analytics  
-🖼️ *(Add dashboard image here)*  
+#### • Customer Churn Analysis *(Python + Power BI)*  
+EDA using **Pandas, NumPy, Seaborn, Matplotlib** → churn drivers & segmentation  
+*Add Image Here*
 
----
+#### • Banking Risk Analysis *(Python + Power BI)*  
+Credit risk patterns, loan default behavior, customer scoring  
+*<img width="1323" height="743" alt="image" src="https://github.com/user-attachments/assets/ff1d1fa8-ab15-48cf-9812-2c89cf1ad0d9" />
+*
 
-### ✅ Customer Churn Analysis *(EDA + Power BI)*  
-📌 *Understanding why customers leave and predicting churn patterns*  
-- Performed EDA using **Pandas, NumPy, Seaborn, Matplotlib**
-- Churn drivers: tenure, contract type, monthly charges  
-- DAX-based churn segmentation & KPI insights  
-🖼️ *(Add dashboard image here)*  
+#### • End-to-End Sales Analysis *(Python + Power BI)*  
+Full flow → EDA → ETL → DAX KPIs → forecasting & drillthrough  
+*Add Image Here*
 
 ---
 
-### ✅ Banking Risk Analysis *(EDA + Power BI)*  
-📌 *Credit risk assessment & loan default behavior analysis*  
-- Explored data using **Pandas, NumPy, Seaborn**  
-- Created customer credit-score clusters & risk profiles  
-- Loan default prediction visuals & score bands  
-🖼️ *(Add dashboard image here)*  
+### 🧠 Skills
+- DAX KPIs, drill-through, tooltips
+- Time-series & geo visuals
+- Python EDA: **Pandas, NumPy, Seaborn, Matplotlib**
+- Power Query (M Language)
 
 ---
 
-### ✅ End-to-End Sales Analysis *(Python + Power BI)*  
-📌 *Full pipeline: EDA → Cleaning → Modeling → Dashboarding*  
-- Conducted full EDA with **Python (Pandas, NumPy, Matplotlib, Seaborn)**  
-- ETL in Power Query + advanced DAX measures  
-- Sales forecasting, product mix analysis & drill-through pages  
-🖼️ *(Add dashboard image here)*  
+### 🛠 Tools
+**Power BI, Python, Excel, SQL (basic)**
 
 ---
 
-## 💡 Skills Demonstrated
-
-- ✅ Advanced DAX measures, KPIs & time-intelligence  
-- ✅ Drill-through, bookmarks, custom tooltips & slicers  
-- ✅ Geo-maps, time series, decomposition tree visuals  
-- ✅ End-to-end data pipeline (Python → Power BI)
+### 📸 Images Folder
+Place dashboard previews in `/images/`
 
 ---
 
-## 🛠️ Tools & Technologies
-
-- **Power BI Desktop**
-- **Python:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Power Query (M Language)**
-- MS Excel, CSV, APIs
-
----
-
-## 📌 Use Cases
-
-- Business Intelligence & reporting  
-- Customer behavior analytics  
-- Sales & operations insights  
-- Portfolio development for data roles  
-
----
-
-## 📷 Project Screenshots
-
-> *(Add project dashboard images in `/images` folder)*
-
----
-
-Feel free to **clone, fork, or explore** these projects.  
-🚀 Contributions & feedback are always welcome!
+> Feel free to explore or pull this repo — suggestions are welcome!
