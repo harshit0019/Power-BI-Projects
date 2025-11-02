@@ -1,42 +1,117 @@
-# 📊 Power BI Projects
+📊 Power BI Projects Portfolio
 
-This repository is a collection of Power BI dashboards and reports built across various domains. Each project highlights data-driven insights through interactive visualizations and storytelling.
+This repository showcases a collection of professional Power BI dashboards & data analysis projects across multiple domains. Each project demonstrates data cleaning, EDA, advanced DAX modeling, KPI tracking, and interactive visualization skills.
 
-## 📁 Contents
+📁 Repository Includes
 
-- `.pbix` files for each project
+✅ .pbix dashboard files
 
-## 🔍 Projects Showcase
+✅ Cleaned datasets (where applicable)
 
-Some of the projects in this repository include:
-- **Amazon Sales Dashboard** – Visualizing regional sales trends and seller performance.
-- **Car Sales Dashboard** – Analyzing revenue, profit margins, and expense categories.
-- **Marketing Campaign Analysis** – Evaluating campaign reach, conversion rates, and ROI.
-- **Customer Segmentation** – Clustering customer data for targeted strategies.
+✅ Python notebooks for EDA (Pandas, NumPy, Seaborn, Matplotlib)
 
-## 💡 Features
+✅ Images/screenshots of dashboards (placeholders below)
 
-- Clean and interactive dashboard designs
-- Advanced DAX measures and KPIs
-- Use of slicers, filters, and drill-through pages
-- Time-series and geographical visualizations
-- Custom themes and visuals
+🔍 Featured Projects
+1️⃣ Amazon Sales Dashboard
 
-## 🛠️ Tools & Technologies
+Visualized regional sales performance, orders trends, and seller metrics
 
-- Microsoft Power BI Desktop
-- DAX (Data Analysis Expressions)
-- Power Query (M Language)
-- External data sources (Excel, CSV, APIs)
+KPI tracking for units sold, profit, and returns
 
-## 📌 Use Cases
+Drill-through pages for seller-wise analysis
 
-- Business intelligence reporting
-- Data storytelling and presentation
-- Sales, marketing, and operations analysis
-- Practice and portfolio building for data professionals
+Advanced DAX measures for profit margins & YoY growth
 
----
+📸 Dashboard Preview:
 
-Feel free to explore, clone, or fork these projects. Contributions and suggestions are always welcome!
+(Add image here)
 
+2️⃣ Car Sales Dashboard
+
+Analyzed revenue, expenses, and profit distribution
+
+Category-wise breakdown & filter-based insights
+
+Custom color theme and KPI cards
+
+📸 Dashboard Preview:
+
+(Add image here)
+
+3️⃣ Customer Churn Analysis
+
+Goal: Identify patterns leading to customer churn
+
+Performed EDA using Pandas, NumPy, Seaborn, Matplotlib
+
+Correlation heatmaps, demographic churn trends
+
+Power BI dashboard for churn indicators (tenure, service usage, complaints)
+
+📸 Dashboard Preview:
+
+(Add image here)
+
+4️⃣ Banking Risk Analysis
+
+Goal: Evaluate loan default risk and customer behavior
+
+EDA to detect risk flags, credit score distribution, and debt trends
+
+Risk scoring model created in Power BI
+
+Drill-through for customer profile analysis
+
+📸 Dashboard Preview:
+
+(Add image here)
+
+5️⃣ End-to-End Sales Analysis
+
+SQL ➝ EDA (Python) ➝ BI Dashboard
+
+Extracted & cleaned sales data
+
+Performed feature engineering + EDA
+
+Designed complete sales reporting system with:
+
+Trend analysis
+
+Region & product insights
+
+Sales forecasting visuals
+
+📸 Dashboard Preview:
+
+(Add image here)
+
+💡 Key Features
+
+Interactive dashboards with filters, slicers & drill-downs
+
+Advanced DAX (YTD, YoY, Rolling Avg, CALCULATE, VAR logic)
+
+Time-series, map visuals, and KPI indicators
+
+Python EDA for data understanding before BI modeling
+
+🛠️ Tech Stack
+Tool	Usage
+Power BI	Dashboarding & DAX
+Power Query	Data Cleaning & ETL
+Pandas, NumPy	Data preprocessing & EDA
+Seaborn, Matplotlib	Visual analytics
+Excel / CSV / SQL	Data sources
+🎯 Use Cases
+
+Business intelligence insights
+
+Data-driven storytelling
+
+Sales, Finance, Customer & Risk domain analytics
+
+Portfolio showcase for data roles
+
+💬 Suggestions & contributions are welcome — feel free to clone, explore, and connect!
