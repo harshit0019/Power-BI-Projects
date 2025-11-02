@@ -1,117 +1,94 @@
-📊 Power BI Projects Portfolio
+# 📊 Power BI Projects Portfolio
 
-This repository showcases a collection of professional Power BI dashboards & data analysis projects across multiple domains. Each project demonstrates data cleaning, EDA, advanced DAX modeling, KPI tracking, and interactive visualization skills.
+This repository showcases my **Power BI dashboards** and **end-to-end data analysis projects** across multiple business domains. Each project highlights my ability to perform **data cleaning & EDA (Python)**, build **advanced visual dashboards**, and create **actionable business insights**.
 
-📁 Repository Includes
+---
 
-✅ .pbix dashboard files
+## 📁 Contents
 
-✅ Cleaned datasets (where applicable)
+- `.pbix` files for each Power BI project  
+- Jupyter notebooks for EDA (where applicable)  
+- Dataset references  
 
-✅ Python notebooks for EDA (Pandas, NumPy, Seaborn, Matplotlib)
+---
 
-✅ Images/screenshots of dashboards (placeholders below)
+## 🔍 Projects Showcase
 
-🔍 Featured Projects
-1️⃣ Amazon Sales Dashboard
+### ✅ Amazon Sales Dashboard  
+📌 *Visualizing regional sales trends and seller performance*  
+- Seller & region-wise performance
+- Profit vs returns breakdown  
+🖼️ *(Add dashboard image here)*  
 
-Visualized regional sales performance, orders trends, and seller metrics
+---
 
-KPI tracking for units sold, profit, and returns
+### ✅ Car Sales Dashboard  
+📌 *Revenue, profit margins, and expense analysis*  
+- Car model, region, dealer performance  
+- Expense-to-sales analytics  
+🖼️ *(Add dashboard image here)*  
 
-Drill-through pages for seller-wise analysis
+---
 
-Advanced DAX measures for profit margins & YoY growth
+### ✅ Customer Churn Analysis *(EDA + Power BI)*  
+📌 *Understanding why customers leave and predicting churn patterns*  
+- Performed EDA using **Pandas, NumPy, Seaborn, Matplotlib**
+- Churn drivers: tenure, contract type, monthly charges  
+- DAX-based churn segmentation & KPI insights  
+🖼️ *(Add dashboard image here)*  
 
-📸 Dashboard Preview:
+---
 
-(Add image here)
+### ✅ Banking Risk Analysis *(EDA + Power BI)*  
+📌 *Credit risk assessment & loan default behavior analysis*  
+- Explored data using **Pandas, NumPy, Seaborn**  
+- Created customer credit-score clusters & risk profiles  
+- Loan default prediction visuals & score bands  
+🖼️ *(Add dashboard image here)*  
 
-2️⃣ Car Sales Dashboard
+---
 
-Analyzed revenue, expenses, and profit distribution
+### ✅ End-to-End Sales Analysis *(Python + Power BI)*  
+📌 *Full pipeline: EDA → Cleaning → Modeling → Dashboarding*  
+- Conducted full EDA with **Python (Pandas, NumPy, Matplotlib, Seaborn)**  
+- ETL in Power Query + advanced DAX measures  
+- Sales forecasting, product mix analysis & drill-through pages  
+🖼️ *(Add dashboard image here)*  
 
-Category-wise breakdown & filter-based insights
+---
 
-Custom color theme and KPI cards
+## 💡 Skills Demonstrated
 
-📸 Dashboard Preview:
+- ✅ Advanced DAX measures, KPIs & time-intelligence  
+- ✅ Drill-through, bookmarks, custom tooltips & slicers  
+- ✅ Geo-maps, time series, decomposition tree visuals  
+- ✅ End-to-end data pipeline (Python → Power BI)
 
-(Add image here)
+---
 
-3️⃣ Customer Churn Analysis
+## 🛠️ Tools & Technologies
 
-Goal: Identify patterns leading to customer churn
+- **Power BI Desktop**
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Power Query (M Language)**
+- MS Excel, CSV, APIs
 
-Performed EDA using Pandas, NumPy, Seaborn, Matplotlib
+---
 
-Correlation heatmaps, demographic churn trends
+## 📌 Use Cases
 
-Power BI dashboard for churn indicators (tenure, service usage, complaints)
+- Business Intelligence & reporting  
+- Customer behavior analytics  
+- Sales & operations insights  
+- Portfolio development for data roles  
 
-📸 Dashboard Preview:
+---
 
-(Add image here)
+## 📷 Project Screenshots
 
-4️⃣ Banking Risk Analysis
+> *(Add project dashboard images in `/images` folder)*
 
-Goal: Evaluate loan default risk and customer behavior
+---
 
-EDA to detect risk flags, credit score distribution, and debt trends
-
-Risk scoring model created in Power BI
-
-Drill-through for customer profile analysis
-
-📸 Dashboard Preview:
-
-(Add image here)
-
-5️⃣ End-to-End Sales Analysis
-
-SQL ➝ EDA (Python) ➝ BI Dashboard
-
-Extracted & cleaned sales data
-
-Performed feature engineering + EDA
-
-Designed complete sales reporting system with:
-
-Trend analysis
-
-Region & product insights
-
-Sales forecasting visuals
-
-📸 Dashboard Preview:
-
-(Add image here)
-
-💡 Key Features
-
-Interactive dashboards with filters, slicers & drill-downs
-
-Advanced DAX (YTD, YoY, Rolling Avg, CALCULATE, VAR logic)
-
-Time-series, map visuals, and KPI indicators
-
-Python EDA for data understanding before BI modeling
-
-🛠️ Tech Stack
-Tool	Usage
-Power BI	Dashboarding & DAX
-Power Query	Data Cleaning & ETL
-Pandas, NumPy	Data preprocessing & EDA
-Seaborn, Matplotlib	Visual analytics
-Excel / CSV / SQL	Data sources
-🎯 Use Cases
-
-Business intelligence insights
-
-Data-driven storytelling
-
-Sales, Finance, Customer & Risk domain analytics
-
-Portfolio showcase for data roles
-
-💬 Suggestions & contributions are welcome — feel free to clone, explore, and connect!
+Feel free to **clone, fork, or explore** these projects.  
+🚀 Contributions & feedback are always welcome!
