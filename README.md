@@ -1,5 +1,7 @@
 # 📊 Power BI Projects
 
+<small>
+
 This repository is a collection of Power BI dashboards and reports built across various domains. Each project highlights data-driven insights through interactive visualizations and storytelling.
 
 ---
@@ -18,30 +20,30 @@ Some of the projects in this repository include:
 
 1. **Amazon Sales Dashboard** – Visualizing regional sales trends, seller performance, product category breakdowns, and seasonality. *(Shows advanced visualizing & dashboarding skills.)*
    
-  <img width="1310" height="730" alt="image" src="https://github.com/user-attachments/assets/7ef789c7-30a7-41b2-9904-f9f786c91eca" />
+  <img width="655" height="365" alt="image" src="https://github.com/user-attachments/assets/7ef789c7-30a7-41b2-9904-f9f786c91eca" />
 
 
 3. **Car Sales Dashboard** – Analyzing revenue, profit margins, expense categories, dealer performance, and time-series forecasting. *(Shows advanced visualizing & dashboarding skills.)*
    
-   <img width="1358" height="747" alt="image" src="https://github.com/user-attachments/assets/ed8c8dec-57b8-4f1a-b47e-9c68e8129fa5" />
+   <img width="679" height="373" alt="image" src="https://github.com/user-attachments/assets/ed8c8dec-57b8-4f1a-b47e-9c68e8129fa5" />
 
 
 5. **Customer Churn Analysis** – Exploratory Data Analysis (EDA) and Power BI reporting to identify drivers of churn, segment high-risk customers, and visualize cohort retention. Includes churn-rate trendlines, survival curves, and feature-impact KPI cards.  
    *EDA performed using pandas, numpy, seaborn, matplotlib; insights translated to Power BI using calculated columns, measures (DAX), and drill-through pages.*  
 
- <img width="1332" height="746" alt="image" src="https://github.com/user-attachments/assets/8b15a7e4-d37a-4f90-9ffe-6288f81f3f5a" />
+ <img width="666" height="373" alt="image" src="https://github.com/user-attachments/assets/8b15a7e4-d37a-4f90-9ffe-6288f81f3f5a" />
 
 
 5. **Banking Risk Analysis** – End-to-end risk analytics dashboard: credit risk scoring visualization, distribution of risk bands, stress-test results, and portfolio concentration maps. EDA and feature engineering were done in Python before building interactive Power BI visuals.  
    *Highlights data cleansing, feature correlation analysis, and risk-summary KPIs.*
    
-   <img width="1324" height="748" alt="image" src="https://github.com/user-attachments/assets/80b1f532-ff63-439b-8a88-28be2a1d2b5c" />
+   <img width="662" height="374" alt="image" src="https://github.com/user-attachments/assets/80b1f532-ff63-439b-8a88-28be2a1d2b5c" />
    
 
 6. **End-to-End Sales Analysis** – Complete pipeline from raw transactions to executive dashboards: ETL with Power Query, EDA and aggregation in Python, advanced DAX measures for rolling metrics, and cross-filterable visual stories for sales, margins, returns, and channels.  
    *Shows both data engineering and dashboard storytelling skills.*
    
-  <img width="1348" height="748" alt="image" src="https://github.com/user-attachments/assets/ac3d7ab5-a18d-4495-a26f-6a017f012aeb" />
+  <img width="674" height="374" alt="image" src="https://github.com/user-attachments/assets/ac3d7ab5-a18d-4495-a26f-6a017f012aeb" />
 
 
 ---
