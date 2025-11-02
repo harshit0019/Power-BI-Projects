@@ -24,15 +24,21 @@ Some of the projects in this repository include:
 
 3. **Customer Churn Analysis** – Exploratory Data Analysis (EDA) and Power BI reporting to identify drivers of churn, segment high-risk customers, and visualize cohort retention. Includes churn-rate trendlines, survival curves, and feature-impact KPI cards.  
    *EDA performed using pandas, numpy, seaborn, matplotlib; insights translated to Power BI using calculated columns, measures (DAX), and drill-through pages.*  
-   ![Customer Churn Analysis Placeholder](images/customer_churn_analysis.png)
 
-4. **Banking Risk Analysis** – End-to-end risk analytics dashboard: credit risk scoring visualization, distribution of risk bands, stress-test results, and portfolio concentration maps. EDA and feature engineering were done in Python before building interactive Power BI visuals.  
-   *Highlights data cleansing, feature correlation analysis, and risk-summary KPIs.*  
-   ![Banking Risk Analysis Placeholder](images/banking_risk_analysis.png)
+ <img width="1332" height="746" alt="image" src="https://github.com/user-attachments/assets/8b15a7e4-d37a-4f90-9ffe-6288f81f3f5a" />
 
-5. **End-to-End Sales Analysis** – Complete pipeline from raw transactions to executive dashboards: ETL with Power Query, EDA and aggregation in Python, advanced DAX measures for rolling metrics, and cross-filterable visual stories for sales, margins, returns, and channels.  
-   *Shows both data engineering and dashboard storytelling skills.*  
-   ![End to End Sales Analysis Placeholder](images/end_to_end_sales_analysis.png)
+
+5. **Banking Risk Analysis** – End-to-end risk analytics dashboard: credit risk scoring visualization, distribution of risk bands, stress-test results, and portfolio concentration maps. EDA and feature engineering were done in Python before building interactive Power BI visuals.  
+   *Highlights data cleansing, feature correlation analysis, and risk-summary KPIs.*
+   
+   <img width="1324" height="748" alt="image" src="https://github.com/user-attachments/assets/80b1f532-ff63-439b-8a88-28be2a1d2b5c" />
+   
+
+6. **End-to-End Sales Analysis** – Complete pipeline from raw transactions to executive dashboards: ETL with Power Query, EDA and aggregation in Python, advanced DAX measures for rolling metrics, and cross-filterable visual stories for sales, margins, returns, and channels.  
+   *Shows both data engineering and dashboard storytelling skills.*
+   
+  <img width="1348" height="748" alt="image" src="https://github.com/user-attachments/assets/ac3d7ab5-a18d-4495-a26f-6a017f012aeb" />
+
 
 ---
 
