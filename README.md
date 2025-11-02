@@ -6,8 +6,9 @@ This repository is a collection of Power BI dashboards and reports built across 
 
 ## 📁 Contents
 
-- `.pbix` files for each project
-- `images/` — place project screenshot images here (recommended size: 1280×720)
+- `.pbix` files for each Power BI project  
+- Jupyter notebooks for EDA (where applicable)  
+- Dataset references
 
 ---
 
